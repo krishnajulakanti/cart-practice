@@ -1,0 +1,20 @@
+{
+    "users": [],
+    "items": [
+        {
+            "id": 1,
+            "title": "Car",
+            "price": 10
+        },
+        {
+            "id": 2,
+            "title": "Bike",
+            "price": 100
+        },
+        {
+            "id": 3,
+            "title": "Jeep",
+            "price": 1000
+        }
+    ]
+}
